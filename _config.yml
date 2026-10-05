@@ -22,8 +22,8 @@ title: Berkley's First Jekyll Site
 email: sberkley@umich.edu
 description: >- # this means to ignore newlines until "baseurl:"
   This is a test Jekyll website for SI 676- Managing Digital Collections! Yippee!
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/Jekyll" # the subpath of your site, e.g. /blog
+url: "https://berkley-s.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: None rip og Twitter :/
 github_username:  Berkley-S
 
